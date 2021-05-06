@@ -8,10 +8,10 @@ fretDistance = int(input('\n• How many frets do you have to move on one string
 
 if fretDistance == int(3):
   scale = str("minor")
-  print(f"\nOk, That mean the first chord is a minor chord! You can play the {scale} scale over these chord.!")
+  print(f"\nOk, That means the first chord is a minor chord! You can play the {scale} scale over these chord.!")
 else:
   scale = str("Major")
-  print("\nOk, That mean the first chord is a Major chord! You can play {scale} scale over these chord!\n\n")
+  print("\nOk, That means the first chord is a Major chord! You can play {scale} scale over these chord!\n\n")
 
 print("\nEXCELLENT!!!\n\nLet's dig a little deeper! \n\nThere are many different scales, or modes, that start with both the minor chord and the Major Chord.\n\nGet this phrase stuck in your head forever: \n\nI Dig People Like My Aunt Locrian\n\n Now think Ancient Greece. More specifically, the different regions of Ancient Greece where the major contributors in forming  the basis of the music theory we use today lived!!! Yeah, those ones! \n\nHere they are: \n\nIonian, Dorian, Phrygian, Lydian, Myxolydian, Aeolian, Locrian\n\n I • D • P • L • M • A • L")
 
